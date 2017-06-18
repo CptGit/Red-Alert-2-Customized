@@ -10,11 +10,13 @@ Here you can find my custom **maps**, maybe mods in the near future :> , about m
 
 You can find some novel maps in directory *map/*. Welcome to your suggestions after your trial.
 
-## WHY TO DO THIS
+## HOW TO PLAY
 
-Share and have fun.
+### HOW TO PLAY A MAP
 
-Have a nice day.
+* Go to directory *map/* and download a map you like.
+* Put it into your game install directory. It looks like *C:/Programs Files/RA2* or any other specific directory you have assigned when you installed the game.
+* Run the game, find the map in the map list and play it!
 
 ## LICENSE
 [The MIT License (MIT)](https://opensource.org/licenses/MIT)
