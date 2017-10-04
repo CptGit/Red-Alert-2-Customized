@@ -2,13 +2,13 @@
 
 ## WHAT IS THIS
 
-My customized contents of the game *Red Alert 2*
+My customized contents of the game *Command & Conquer: Red Alert 2*, including its expansion *Yuri's revenge*.
 
-Here you can find my custom **maps**, maybe mods in the near future :> , about my favorite game, *Red Alert 2*.
+Here you can find my custom **maps**, maybe mods in the near future :> .
 
 ### MAPS
 
-You can find some novel maps in directory *map/*. Welcome to your suggestions after your trial.
+You can find some novel maps in directory *map/*. After your playing, feel free to leave me any feedback.
 
 ## HOW TO PLAY
 
